@@ -2,10 +2,10 @@
 
 Coded in C++
 
-#Author
+# Author
 
 SpeedStar101
 
-#What it does
+# What it does
 
 Just a normal calculator with the arithmatic operators *,/,+,-
